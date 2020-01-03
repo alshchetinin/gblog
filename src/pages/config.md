@@ -6,5 +6,7 @@ menu_nav:
     url: /cms-unreachable
   - text: CMS created page
     url: /content/example-content-creation
+  - text: тест
+    url: vk.com
 ---
 
