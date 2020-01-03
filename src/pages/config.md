@@ -7,6 +7,6 @@ menu_nav:
   - text: CMS created page
     url: /content/example-content-creation
   - text: тест
-    url: vk.com
+    url: /content/example-content-creation
 ---
 
